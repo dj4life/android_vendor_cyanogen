@@ -11,6 +11,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_cooper.mk \
     $(LOCAL_DIR)/cyanogen_crespo.mk \
     $(LOCAL_DIR)/cyanogen_crespo4g.mk \
+    $(LOCAL_DIR)/cyanogen_daytona.mk \
     $(LOCAL_DIR)/cyanogen_desirec.mk \
     $(LOCAL_DIR)/cyanogen_dream_sapphire.mk \
     $(LOCAL_DIR)/cyanogen_droid2.mk \
